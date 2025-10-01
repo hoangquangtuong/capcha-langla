@@ -1,0 +1,40 @@
+{
+  "GameWindowTitle": "Duke Client - By iamDuke",
+  "UseManualCapture": false,
+  "CaptchaArea": {
+    "X": 0,
+    "Y": 0,
+    "Width": 20,
+    "Height": 6
+  },
+  "InputFieldPosition": {
+    "X": 550,
+    "Y": 330
+  },
+  "ConfirmButtonPosition": {
+    "X": 523,
+    "Y": 438
+  },
+  "UseAbsoluteCoordinates": false,
+  "UseRelativeCoordinates": true,
+  "AutoDetectCaptchaArea": true,
+  "CaptchaLeftX": 610,
+  "CaptchaTopY": 304,
+  "CaptchaRightX": 630,
+  "CaptchaBottomY": 310,
+  "InputFieldX": 550,
+  "InputFieldY": 330,
+  "ConfirmButtonX": 523,
+  "ConfirmButtonY": 438,
+  "OCRSettings": {
+    "TessdataPath": "./tessdata",
+    "Language": "eng",
+    "CharWhitelist": "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
+  },
+  "AutomationSettings": {
+    "DelayBetweenAttempts": 2000,
+    "DelayAfterInput": 500,
+    "DelayAfterClick": 300,
+    "MaxRetries": 3
+  }
+}
